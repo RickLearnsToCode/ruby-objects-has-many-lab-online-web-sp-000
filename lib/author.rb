@@ -1,5 +1,5 @@
 class Author
-  attr_accessor :name
+  attr_accessor :name, :posts
   # attr_reader :posts
 
   @@all_posts = []
